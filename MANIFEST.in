@@ -1,0 +1,4 @@
+include tspart/bin/LKH-3.exe
+include README.md
+include LICENSE
+include requirements.txt
